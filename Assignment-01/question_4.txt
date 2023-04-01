@@ -1,0 +1,11 @@
+4. Swap two numbers without using the third variable approach.
+
+1.Start
+2.take two numbers from user a&b
+3. print both numbers before Swap
+4.perform below arithmatic operation
+  a=a+b
+  b=a-b
+  a=a-b
+5.print both number after swap
+6.End

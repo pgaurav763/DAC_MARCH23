@@ -1,0 +1,10 @@
+15. Write a java program to LCM of TWO given numbers
+
+1.Start
+2.read num1 and num2
+3.assign value of larger num in another variable lcm
+4.while num2<=lcm
+5.check if(num1%lcm==0 && num2%lcm==0)
+6.i++
+7.programrint lcm
+8.end 

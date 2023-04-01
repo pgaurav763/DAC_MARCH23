@@ -1,0 +1,9 @@
+ How to check whether the given number is Positive or Negative in Java?
+
+ 1.Start
+ 2.Take input from user 
+ 3.if(num>0)
+   print " positive number"
+ 4.if(num<0)
+   print "negative number"
+ 5.End

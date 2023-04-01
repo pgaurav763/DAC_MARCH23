@@ -1,0 +1,8 @@
+1. Check if the given number is EVEN or ODD.
+
+1.Start
+2.Read number
+3.if(number%2==0)
+  print "Even number"
+4.else print "odd number"
+5.End

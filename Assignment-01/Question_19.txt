@@ -1,0 +1,8 @@
+To print the following series EVEN number Series 2 4 6 8 10 12 14 16 .....
+
+
+1.Start
+2.Declare a variable i
+3.for(i=1;i<=40;i++)
+  print i=i*2
+4.End

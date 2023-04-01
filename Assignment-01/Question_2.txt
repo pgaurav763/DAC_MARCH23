@@ -1,0 +1,9 @@
+Write a Java Program to find the Factorial of a given number. 
+
+1.Start
+2.Read num from user
+3.initialize factorial variable
+4.for(int i=1;i<=num;++i)
+  factorial=factorial*i
+5.print factorial.
+6.End
